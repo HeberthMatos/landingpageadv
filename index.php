@@ -32,19 +32,19 @@
         <h1>Nossas Áreas de Atuação</h1>
         <div class="areas-grid">
             <div class="area-item">
-                <img src="./img/area.png" alt="Área 1">
+                <img src="/img/area.png" alt="Área 1">
                 <h2>Título Área 1</h2>
                 <p>Subtítulo Área 1</p>
             </div>
             <!-- Repetir para as outras áreas -->
             <div class="area-item">
-                <img src="./img/area.png" alt="Área 2">
+                <img src="/img/area.png" alt="Área 2">
                 <h2>Título Área 2</h2>
                 <p>Subtítulo Área 2</p>
             </div>
 
             <div class="area-item">
-                <img src="./img/area.png" alt="Área 3">
+                <img src="/img/area.png" alt="Área 3">
                 <h2>Título Área 3</h2>
                 <p>Subtítulo Área 3</p>
             </div>
