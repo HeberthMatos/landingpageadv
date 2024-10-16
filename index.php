@@ -9,7 +9,7 @@
     <link rel="icon" href="#">
     <link rel="stylesheet" href="/css/main.css">
     <!-- icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 
 <body>
@@ -21,9 +21,9 @@
             <img src="/img/logo.png" alt="Logo do Escritório" class="logo">
             <h1>Título Principal</h1>
             <h2>Subtítulo</h2>
-            <a href="#areas" class="scroll-down">
-                <i class="fa fa-chevron-down"></i>
-            </a>
+            <div class="bounce"> <a href="#areas" class="scroll-down">
+                    <i class="fa fa-chevron-down"></i>
+                </a></div>
         </div>
     </section>
 

@@ -4,9 +4,9 @@
             <div class="logo-nome"> <img src="/img/logo.png" alt="Logo do Advogado" class="logo">
                 <span class="nome">NOME ESCRITORIO</span>
             </div>
-            <p>Contato: (XX) XXXX-XXXX</p>
-            <p>Email: contato@escritorio.com</p>
-            <p>Endereço: Rua X, Número Y, Cidade Z</p>
+            <p><i class="fab fa-whatsapp"></i> Contato: (XX) XXXX-XXXX</p>
+            <p><i class="fa fa-envelope"></i> Email: contato@escritorio.com</p>
+            <p><i class="fa fa-location-dot"></i> Endereço: Rua X, Número Y, Cidade Z</p>
         </div>
         <div class="nav-links">
             <a href="#home">Home</a>
