@@ -70,6 +70,7 @@
     <!-- Section 4 - Como Podemos te Ajudar -->
     <section id="ajuda">
         <h1>Como Podemos te Ajudar?</h1>
+        <h2>Subtitulo</h2>
         <button class="fale-conosco-btn">Fale Conosco</button>
     </section>
 

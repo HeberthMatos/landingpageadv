@@ -324,10 +324,24 @@ section {
         /* Mantém o h1 como um bloco */
     }
 
+    & h2 {
+        font-size: 1.5rem;
+        color: var(--gray-light);
+        margin-bottom: 30px;
+        background: var(--gray-80);
+        /* Fundo com 80% de opacidade */
+        padding: 10px;
+        /* Adiciona espaçamento interno */
+        border-radius: 10px;
+        /* Opcional: arredonda os cantos */
+        display: block;
+        /* Mantém o h1 como um bloco */
+    }
+
     & .fale-conosco-btn {
         padding: 10px 20px;
         background-color: var(--secondary-color);
-        color: var(--text-color-dark);
+        color: var(--text-color-light);
         border: none;
         cursor: pointer;
         font-size: 1.2rem;
