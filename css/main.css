@@ -260,9 +260,6 @@ section {
         & .advogado-foto {
             height: auto;
             /* Mantém a proporção da imagem */
-            border-radius: 10px;
-            object-fit: cover;
-            /* Cobre todo o espaço sem cortar a imagem */
         }
 
         & .sobre-texto {

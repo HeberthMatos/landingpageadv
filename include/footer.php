@@ -5,6 +5,7 @@
                 <span class="nome">NOME ESCRITORIO</span>
             </div>
             <p><i class="fab fa-whatsapp"></i> Contato: (XX) XXXX-XXXX</p>
+            <p><i class="fa fa-scale-balanced"></i> OAB: 000000</p>
             <p><i class="fa fa-envelope"></i> Email: contato@escritorio.com</p>
             <p><i class="fa fa-location-dot"></i> Endereço: Rua X, Número Y, Cidade Z</p>
         </div>

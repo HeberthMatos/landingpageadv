@@ -9,4 +9,9 @@
         <a href="#sobre-nos">Sobre Nós</a>
         <a href="#ajuda">Solicitar Contato</a>
     </nav>
+    <div class="menu-toggle" id="mobile-menu">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </div>
 </header>
